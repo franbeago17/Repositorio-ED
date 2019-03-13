@@ -16,7 +16,7 @@ public class Array {
 	}
 	
 	public static void nuevoMetodo2() {
-		System.out.println("Nuevo metodo 2");
+		System.out.println("Nuevo Metodo 2");
 	}
 
 }
