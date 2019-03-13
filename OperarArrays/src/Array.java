@@ -14,5 +14,9 @@ public class Array {
 			System.out.print(array[i]+"  ");
 		}
 	}
+	
+	public static void nuevoMetodo1() {
+		System.out.println("Nuevo metodo 1");
+	}
 
 }
