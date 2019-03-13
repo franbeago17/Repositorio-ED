@@ -15,8 +15,12 @@ public class Array {
 		}
 	}
 	
+public static void nuevoMetodo2() {
+		System.out.println("Nuevo Metodo 2");
+}
 	public static void nuevoMetodo1() {
 		System.out.println("Nuevo metodo 1");
+
 	}
 
 }
